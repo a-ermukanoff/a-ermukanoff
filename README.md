@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi there, I'm Artyom 👋
+🔭 I’m currently working at [METEOR Auto](https://meteor-auto.ru/)\
+🌱 I’m currently learning: 
+ - _~~how to live in this cruel world~~_
+ - The C programming language (K & R)
+ - Learning Python (Mark Lutz)
+ - Flask
+ - Django
 
-<!--
-**a-ermukanoff/a-ermukanoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ Fun fact: I play chess, go to the gym and love listening to music. And I haven't idea why I decide to tell it to you 😂
+## My statistics and most used languages and tools
+<p align="left">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=40>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=40>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=40>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=40>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width=40>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width=40>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=40>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width=40>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width=40>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=a-ermukanoff&theme=bear&rank_icon=github">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-ermukanoff&layout=donut&langs_count=8&card_width=320&theme=bear">
+</p>
